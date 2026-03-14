@@ -9,8 +9,17 @@ Skills I built and maintain.
 | Skill | Source | Description |
 |-------|--------|-------------|
 | autoresearch | [chrisliu298/autoresearch](https://github.com/chrisliu298/autoresearch) | Autonomous experiment loop faithful to Karpathy's autoresearch |
+| citation-assistant | [chrisliu298/citation-assistant](https://github.com/chrisliu298/citation-assistant) | Add verified citations to academic LaTeX documents |
+| deslop | [chrisliu298/deslop](https://github.com/chrisliu298/deslop) | Remove AI-generated slop from code changes |
+| interviewer | [chrisliu298/interviewer](https://github.com/chrisliu298/interviewer) | Mock technical interviews for AI/ML |
+| karpathy-guidelines | [chrisliu298/karpathy-guidelines](https://github.com/chrisliu298/karpathy-guidelines) | LLM-assisted coding best practices |
+| last-call | [chrisliu298/last-call](https://github.com/chrisliu298/last-call) | Session-end quality review of all changes |
+| nanorepl | [chrisliu298/nanorepl](https://github.com/chrisliu298/nanorepl) | Minimal reimplementations following Karpathy's nano philosophy |
+| note-gen | [chrisliu298/note-gen](https://github.com/chrisliu298/note-gen) | Generate Obsidian notes from source materials |
 | prism | [chrisliu298/prism](https://github.com/chrisliu298/prism) | Multi-perspective review through parallel agent deliberation |
+| prompt-engineer | [chrisliu298/prompt-engineer](https://github.com/chrisliu298/prompt-engineer) | Write and refine prompts for Claude or GPT/Codex |
 | relay | [chrisliu298/relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
+| vault-linker | [chrisliu298/vault-linker](https://github.com/chrisliu298/vault-linker) | Build wikilink connections across Obsidian vaults |
 
 ## Skills I Use
 

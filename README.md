@@ -12,7 +12,6 @@ Skills I have built and maintain as open-source repos:
 | citation-assistant | [chrisliu298/citation-assistant](https://github.com/chrisliu298/citation-assistant) | Add verified citations to academic LaTeX documents |
 | deslop | [chrisliu298/deslop](https://github.com/chrisliu298/deslop) | Remove AI-generated slop from code changes |
 | interviewer | [chrisliu298/interviewer](https://github.com/chrisliu298/interviewer) | Mock technical interviews for AI/ML |
-| karpathy-guidelines | [chrisliu298/karpathy-guidelines](https://github.com/chrisliu298/karpathy-guidelines) | LLM-assisted coding best practices |
 | last-call | [chrisliu298/last-call](https://github.com/chrisliu298/last-call) | Session-end quality review of all changes |
 | lbreview | [chrisliu298/lbreview](https://github.com/chrisliu298/lbreview) | Thorough code review of changes against main |
 | nanorepl | [chrisliu298/nanorepl](https://github.com/chrisliu298/nanorepl) | Minimal reimplementations following Karpathy's nano philosophy |
@@ -30,7 +29,6 @@ Public skills by others that I found useful and installed:
 | Skill | Source | Description |
 |-------|--------|-------------|
 | defuddle | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Extract clean markdown from web pages via CLI |
-| find-skills | [vercel-labs/skills](https://github.com/vercel-labs/skills) | Search and discover agent skills from within the agent |
 | humanizer | [blader/humanizer](https://github.com/blader/humanizer) | Remove AI-generated writing patterns |
 | obsidian-cli | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Interact with Obsidian vaults via CLI |
 | pdf | [anthropics/skills](https://github.com/anthropics/skills), [openai/skills](https://github.com/openai/skills) | PDF manipulation: extract, create, merge, split, fill forms |

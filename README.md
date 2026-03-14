@@ -19,7 +19,7 @@ My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claud
 | [humanizer](https://github.com/blader/humanizer) | blader/humanizer | Remove AI-generated writing patterns |
 | [obsidian-cli](https://github.com/kepano/obsidian-skills) | kepano/obsidian-skills | Interact with Obsidian vaults via CLI |
 | [obsidian-markdown](https://github.com/kepano/obsidian-skills) | kepano/obsidian-skills | Obsidian-flavored markdown syntax |
-| [pdf](https://github.com/anthropics/skills) | anthropics/skills | PDF manipulation: extract, create, merge, split, fill forms |
+| [pdf](https://github.com/anthropics/skills) | anthropics/skills, [openai/skills](https://github.com/openai/skills) | PDF manipulation: extract, create, merge, split, fill forms |
 | [skill-creator](https://github.com/anthropics/skills) | anthropics/skills | Guide for creating new skills |
 
 ## Install

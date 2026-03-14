@@ -14,6 +14,7 @@ The following are skills I have built and maintain:
 | interviewer | [chrisliu298/interviewer](https://github.com/chrisliu298/interviewer) | Mock technical interviews for AI/ML |
 | karpathy-guidelines | [chrisliu298/karpathy-guidelines](https://github.com/chrisliu298/karpathy-guidelines) | LLM-assisted coding best practices |
 | last-call | [chrisliu298/last-call](https://github.com/chrisliu298/last-call) | Session-end quality review of all changes |
+| lbreview | [chrisliu298/lbreview](https://github.com/chrisliu298/lbreview) | Thorough code review of changes against main |
 | nanorepl | [chrisliu298/nanorepl](https://github.com/chrisliu298/nanorepl) | Minimal reimplementations following Karpathy's nano philosophy |
 | note-gen | [chrisliu298/note-gen](https://github.com/chrisliu298/note-gen) | Generate Obsidian notes from source materials |
 | prism | [chrisliu298/prism](https://github.com/chrisliu298/prism) | Multi-perspective review through parallel agent deliberation |
@@ -21,6 +22,8 @@ The following are skills I have built and maintain:
 | recall | [chrisliu298/recall](https://github.com/chrisliu298/recall) | Search past sessions and Obsidian notes for context |
 | relay | [chrisliu298/relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
 | vault-linker | [chrisliu298/vault-linker](https://github.com/chrisliu298/vault-linker) | Build wikilink connections across Obsidian vaults |
+
+I also use a handful of other local skills (`atomic-push`, `publish-skill`, `push`, `session-recovery`, `sync-upstream`, `update-readme`) mainly for workflow acceleration. These aren't published as standalone repos.
 
 ## Skills I Use
 

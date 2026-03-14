@@ -4,23 +4,23 @@ My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claud
 
 ## My Skills
 
-| Skill | Description |
-|-------|-------------|
-| [autoresearch](https://github.com/chrisliu298/autoresearch) | Autonomous experiment loop faithful to Karpathy's autoresearch |
-| [prism](https://github.com/chrisliu298/prism) | Multi-perspective review through parallel agent deliberation |
-| [relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
+| Skill | Source | Description |
+|-------|--------|-------------|
+| autoresearch | [chrisliu298/autoresearch](https://github.com/chrisliu298/autoresearch) | Autonomous experiment loop faithful to Karpathy's autoresearch |
+| prism | [chrisliu298/prism](https://github.com/chrisliu298/prism) | Multi-perspective review through parallel agent deliberation |
+| relay | [chrisliu298/relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
 
 ## Skills I Use
 
 | Skill | Source | Description |
 |-------|--------|-------------|
-| [defuddle](https://github.com/kepano/obsidian-skills) | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Extract clean markdown from web pages via CLI |
-| [find-skills](https://github.com/vercel-labs/skills) | [vercel-labs/skills](https://github.com/vercel-labs/skills) | Search and discover agent skills from within the agent |
-| [humanizer](https://github.com/blader/humanizer) | [blader/humanizer](https://github.com/blader/humanizer) | Remove AI-generated writing patterns |
-| [obsidian-cli](https://github.com/kepano/obsidian-skills) | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Interact with Obsidian vaults via CLI |
-| [obsidian-markdown](https://github.com/kepano/obsidian-skills) | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Obsidian-flavored markdown syntax |
-| [pdf](https://github.com/anthropics/skills) | [anthropics/skills](https://github.com/anthropics/skills), [openai/skills](https://github.com/openai/skills) | PDF manipulation: extract, create, merge, split, fill forms |
-| [skill-creator](https://github.com/anthropics/skills) | [anthropics/skills](https://github.com/anthropics/skills) | Guide for creating new skills |
+| defuddle | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Extract clean markdown from web pages via CLI |
+| find-skills | [vercel-labs/skills](https://github.com/vercel-labs/skills) | Search and discover agent skills from within the agent |
+| humanizer | [blader/humanizer](https://github.com/blader/humanizer) | Remove AI-generated writing patterns |
+| obsidian-cli | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Interact with Obsidian vaults via CLI |
+| obsidian-markdown | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Obsidian-flavored markdown syntax |
+| pdf | [anthropics/skills](https://github.com/anthropics/skills), [openai/skills](https://github.com/openai/skills) | PDF manipulation: extract, create, merge, split, fill forms |
+| skill-creator | [anthropics/skills](https://github.com/anthropics/skills) | Guide for creating new skills |
 
 ## Install
 

@@ -4,6 +4,8 @@ My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claud
 
 ## My Skills
 
+Skills I built and maintain.
+
 | Skill | Source | Description |
 |-------|--------|-------------|
 | autoresearch | [chrisliu298/autoresearch](https://github.com/chrisliu298/autoresearch) | Autonomous experiment loop faithful to Karpathy's autoresearch |
@@ -11,6 +13,8 @@ My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claud
 | relay | [chrisliu298/relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
 
 ## Skills I Use
+
+Public skills by others that I have installed.
 
 | Skill | Source | Description |
 |-------|--------|-------------|

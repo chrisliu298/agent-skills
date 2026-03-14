@@ -18,6 +18,7 @@ Skills I built and maintain.
 | note-gen | [chrisliu298/note-gen](https://github.com/chrisliu298/note-gen) | Generate Obsidian notes from source materials |
 | prism | [chrisliu298/prism](https://github.com/chrisliu298/prism) | Multi-perspective review through parallel agent deliberation |
 | prompt-engineer | [chrisliu298/prompt-engineer](https://github.com/chrisliu298/prompt-engineer) | Write and refine prompts for Claude or GPT/Codex |
+| recall | [chrisliu298/recall](https://github.com/chrisliu298/recall) | Search past sessions and Obsidian notes for context |
 | relay | [chrisliu298/relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
 | vault-linker | [chrisliu298/vault-linker](https://github.com/chrisliu298/vault-linker) | Build wikilink connections across Obsidian vaults |
 

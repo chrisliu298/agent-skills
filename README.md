@@ -32,7 +32,6 @@ Public skills by others that I have installed.
 | find-skills | [vercel-labs/skills](https://github.com/vercel-labs/skills) | Search and discover agent skills from within the agent |
 | humanizer | [blader/humanizer](https://github.com/blader/humanizer) | Remove AI-generated writing patterns |
 | obsidian-cli | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Interact with Obsidian vaults via CLI |
-| obsidian-markdown | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Obsidian-flavored markdown syntax |
 | pdf | [anthropics/skills](https://github.com/anthropics/skills), [openai/skills](https://github.com/openai/skills) | PDF manipulation: extract, create, merge, split, fill forms |
 | skill-creator | [anthropics/skills](https://github.com/anthropics/skills) | Guide for creating new skills |
 

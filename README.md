@@ -4,7 +4,7 @@ My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claud
 
 ## My Skills
 
-Skills I built and maintain.
+The following are skills I have built and maintain:
 
 | Skill | Source | Description |
 |-------|--------|-------------|
@@ -24,7 +24,7 @@ Skills I built and maintain.
 
 ## Skills I Use
 
-Public skills by others that I have installed.
+I didn't create the following skills. They are public skills developed by others that I found very useful and installed.
 
 | Skill | Source | Description |
 |-------|--------|-------------|

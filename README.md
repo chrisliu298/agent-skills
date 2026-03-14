@@ -23,7 +23,11 @@ The following are skills I have built and maintain:
 | relay | [chrisliu298/relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
 | vault-linker | [chrisliu298/vault-linker](https://github.com/chrisliu298/vault-linker) | Build wikilink connections across Obsidian vaults |
 
-I also use a handful of other local skills (`atomic-push`, `publish-skill`, `push`, `session-recovery`, `sync-upstream`, `update-readme`) mainly for workflow acceleration. These aren't published as standalone repos.
+## Local Skills
+
+I also use a handful of other local skills mainly for workflow acceleration. These aren't published as standalone repos.
+
+`atomic-push`, `publish-skill`, `push`, `session-recovery`, `sync-upstream`, `update-readme`
 
 ## Skills I Use
 

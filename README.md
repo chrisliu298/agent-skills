@@ -1,6 +1,6 @@
 # Agent Skills
 
-My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [Codex](https://openai.com/index/introducing-codex/).
+Skills I use with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [Codex](https://openai.com/index/introducing-codex/).
 
 ## Published Skills
 

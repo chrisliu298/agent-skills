@@ -2,7 +2,7 @@
 
 My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [Codex](https://openai.com/index/introducing-codex/).
 
-## Skills
+## My Skills
 
 | Skill | Description |
 |-------|-------------|
@@ -10,7 +10,7 @@ My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claud
 | [prism](https://github.com/chrisliu298/prism) | Parallel multi-agent deliberation with hard completion gate |
 | [relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
 
-## Other Skills I Use
+## Skills I Use
 
 | Skill | Source | Description |
 |-------|--------|-------------|

@@ -2,9 +2,9 @@
 
 My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [Codex](https://openai.com/index/introducing-codex/).
 
-## My Skills
+## Published Skills
 
-The following are skills I have built and maintain:
+Skills I have built and maintain as open-source repos:
 
 | Skill | Source | Description |
 |-------|--------|-------------|
@@ -23,15 +23,9 @@ The following are skills I have built and maintain:
 | relay | [chrisliu298/relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
 | vault-linker | [chrisliu298/vault-linker](https://github.com/chrisliu298/vault-linker) | Build wikilink connections across Obsidian vaults |
 
-## Local Skills
+## Community Skills
 
-I also use a handful of other local skills mainly for workflow acceleration. These aren't published as standalone repos.
-
-`atomic-push`, `publish-skill`, `push`, `session-recovery`, `sync-upstream`, `update-readme`
-
-## Skills I Use
-
-I didn't create the following skills. They are public skills developed by others that I found very useful and installed.
+Public skills by others that I found useful and installed:
 
 | Skill | Source | Description |
 |-------|--------|-------------|
@@ -41,6 +35,19 @@ I didn't create the following skills. They are public skills developed by others
 | obsidian-cli | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Interact with Obsidian vaults via CLI |
 | pdf | [anthropics/skills](https://github.com/anthropics/skills), [openai/skills](https://github.com/openai/skills) | PDF manipulation: extract, create, merge, split, fill forms |
 | skill-creator | [anthropics/skills](https://github.com/anthropics/skills) | Guide for creating new skills |
+
+## Workflow Skills
+
+Local skills for workflow acceleration. These aren't published as standalone repos.
+
+| Skill | Description |
+|-------|-------------|
+| atomic-push | Atomic commits and push to remote |
+| publish-skill | Publish local skill to standalone public GitHub repo |
+| push | Single-commit push to remote |
+| session-recovery | Recover sessions after directory rename/move |
+| sync-upstream | Sync forked repo with upstream remote |
+| update-readme | Update or create README.md for repos |
 
 ## Install
 

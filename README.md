@@ -7,7 +7,7 @@ My open-source skills for [Claude Code](https://docs.anthropic.com/en/docs/claud
 | Skill | Description |
 |-------|-------------|
 | [autoresearch](https://github.com/chrisliu298/autoresearch) | Autonomous experiment loop faithful to Karpathy's autoresearch |
-| [prism](https://github.com/chrisliu298/prism) | Parallel multi-agent deliberation for plan review |
+| [prism](https://github.com/chrisliu298/prism) | Multi-perspective review through parallel agent deliberation |
 | [relay](https://github.com/chrisliu298/relay) | Bidirectional cross-agent relay between Claude Code and Codex |
 
 ## Skills I Use
